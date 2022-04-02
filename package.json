@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "blakeh37",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
